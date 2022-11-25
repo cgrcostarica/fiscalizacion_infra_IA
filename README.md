@@ -1,8 +1,11 @@
 
 # Mecanismo preventivo de fiscalización en infraestructura pública basado en inteligencia artificial (Contraloría General de la República de Costa Rica)
 
+# Preventive inspection mechanism in public infrastructure based on artificial intelligence (General Comptroller of the Republic of Costa Rica)
 
 Una propuesta para el uso de componentes de internet de las cosas, inteligencia artificial y blockchain, como plataforma de habilitación para la participación ciudadana en el proceso de fiscalización de desarrollo de infraestructura pública. 
+
+A proposal for use of components of the internet of things, artificial intelligence and blockchain, as a platform for enabling citizen participation in the process of auditing the development of public infrastructure.
 
 Al inicio de la pandemia por SARS-COV-2, China realizó la construcción de emergencia de un hospital en Wuhan, epicentro del problema sanitario. Lo sorprendente de esta proeza no fue sólo construir ese centro hospitalario en diez días, sino habilitar al mundo la transmisión por cámaras 24/7 por medio de internet del proceso de construcción , generando una primera experiencia, al menos con esa dimensión, de control ciudadano a nivel global sobre el proceso de desarrollo de infraestructura pública.
 
