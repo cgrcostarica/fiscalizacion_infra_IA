@@ -1,3 +1,4 @@
+[propuesta_CR_OLACEF.pdf](https://github.com/cgrcr/DIFIR_publico/files/10094855/propuesta_CR_OLACEF.pdf)
 # Mecanismo preventivo de fiscalización en infraestructura pública basado en inteligencia artificial (Contraloría General de la República de Costa Rica)
 
 
